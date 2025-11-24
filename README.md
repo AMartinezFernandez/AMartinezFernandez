@@ -1,72 +1,48 @@
 # Álvaro Martínez Fernández
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-martinez-fernandez-1a654b292)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMartinezFernandez)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarfer26@gmail.com)
 
-**Desarrollador Junior** — DAM | Android | DFIR & IA | Cloud  
-📍 Madrid, España
-
-
-
----
-
-## 💡 Sobre mí
-
-- 🎓 Estudiante de **DAM** + trayectoria en **proyectos reales** (Java, Kotlin, Python, SQL, desarrollo web).  
-- 🤖 Formación intensiva en **DFIR** (forense digital) e **IA aplicada** — INCIBE & ULE.  
-- 🔐 Formación en **Tecnologías de Ciberseguridad** — INCIBE & UNED.  
-- 📱 Aprendiendo y desarrollando apps en **Kotlin + Android Studio**.  
-- 🗄️ Bases de datos con **PostgreSQL, MySQL y SQLite**.  
-- 🚀 Interés en automatización, desarrollo multiplataforma y análisis de datos.
+**Desarrollador Junior**  
+📍 Madrid, España  
+🗣️ Inglés: B1–B2 (lectura técnica fluida)
 
 ---
 
-## 📜 Certificaciones y Formación
+## 🧔🏻‍♂️ Sobre mí
 
-- DFIR & IA — INCIBE & ULE (en curso)  
-- Tecnologías de Ciberseguridad — INCIBE & UNED (en curso)  
-- Oracle OCI Foundations (en preparación)  
-- Desarrollo de Aplicaciones Multiplataforma (DAM)
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con experiencia en **proyectos reales** de software, automatización y análisis. Actualmente profundizando en **DFIR (Digital Forensics & Incident Response)**, **Inteligencia Artificial aplicada al desarrollo**, **automatización de procesos** y **desarrollo Android**.
+
+🔹 Combino programación con pensamiento analítico, interés por la tecnología emergente y visión de producto.  
+🔹 Fuerte orientación al **aprendizaje continuo**, disciplina y capacidad para resolver problemas técnicos.  
+🔹 Me apasiona crear soluciones **eficientes, automatizadas e inteligentes**.
+
+---
+
+## 🎓 Formación y especialización
+
+- 📱 **Desarrollo de Aplicaciones Multiplataforma (DAM)** — 2024/25  
+- 🛡️ **DFIR & IA aplicada** — INCIBE & ULE (curso intensivo en paralelo con DAM)  
+- 🔐 **Tecnologías de Ciberseguridad** — INCIBE & UNED  
+- 💻 Autodidacta en **automatización de workflows, IA aplicada, bots y productividad digital**
 
 ---
 
 ## 🧩 Proyectos destacados
 
-- ⚙️ **POO + JDBC**  
-  [Repositorio](https://github.com/AMartinezFernandez/poo-jdbc)  
-  Modelo OOP con herencia, colecciones y persistencia.  
-  _Resultado: reducción del 30% en errores de ejecución._
-
-- 🌐 **Formularios web full stack**  
-  [Repositorio](https://github.com/AMartinezFernandez/formularios-web)  
-  Validación cliente/servidor, SQL, diseño completo.  
-  _Resultado: 500+ registros procesados con 95% validaciones correctas._
-
-- 📊 **App de análisis (Streamlit)**  
-  [Repositorio](https://github.com/AMartinezFernandez/app-analisis)  
-  Visualización interactiva, filtros, análisis rápido.  
-  _Resultado: ↓40% tiempo de análisis manual._
-
-
-
-- 📱 **Aplicaciones Android (Kotlin + RecyclerView + Menús + Navegación)**  
-  *Repositorios privados o en desarrollo*  
-  Interfaces completas, comunicación entre actividades, listas dinámicas y diálogos.
-
-- ⚙️ [Módulo POO + JDBC](https://github.com/AMartinezFernandez/poo-jdbc) — Modelo OOP con herencia y colecciones; persistencia con JDBC.  
-  _Resultado: reducción del 30% en errores de ejecución._  
-- 🌐 [Formularios web full stack](https://github.com/AMartinezFernandez/formularios-web) — Validación cliente/servidor, SQL.  
-  _Resultado: 500+ registros gestionados con 95% de validaciones correctas._  
-
-
-
+| Proyecto | Tecnologías | Logros |
+|----------|-------------|--------|
+| **POO + JDBC** | Java, JDBC, Colecciones | ↓30% errores de ejecución |
+| **Formularios web full stack** | HTML, CSS, JS, SQL | +500 registros, 95% validaciones |
+| **App análisis de datos** | Python, Streamlit | ↓40% tiempo análisis manual |
+| **Android Apps (en desarrollo)** | Kotlin, RecyclerView, navegación | Interfaces dinámicas, UX optimizada |
+| **Automatización con Workflows (n8n)** | API, JSON, Webhooks | Automatización de tareas técnicas |
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-### 🚀 Lenguajes
+### 🗣️ Lenguajes
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -77,7 +53,8 @@
 ### 📱 Desarrollo Android
 <p>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin_App_Dev-000000?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/RecyclerView-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
@@ -88,26 +65,52 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🌐 Web
+### 🔧 Backend y frameworks
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
 </p>
 
-### ⚙️ Herramientas
+### ⚙️ Automatización & Productividad
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 🔐 Sistemas y seguridad
+<p>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
+
+### 💻 Herramientas y entornos
+<p>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal_MacOS-333333?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 Actividad
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AMartinezFernandez&show_icons=true&theme=tokyonight)
+## 🚀 Objetivos actuales
+
+- ✅ Ahondar en desarrollo **multiplataforma y móvil**  
+- ✅ Aplicar IA y automatización en proyectos reales  
+- ✅ Fortalecer conocimientos de **Linux, contenedores y entornos virtuales**  
+- ✅ Preparación técnica avanzada para empleabilidad en IT  
+- 🛠️ Próximo objetivo: certificaciones técnicas oficiales
 
 ---
 
-**Abierto a colaboraciones 🚀**
+## 📫 ¿Hablamos?
+📩 **amarfer26@gmail.com**  
+🔗 **https://www.linkedin.com/in/alvaro-martinez-fernandez-1a654b292**
+
+---
+
+💬 _“La tecnología es la herramienta, la actitud es la clave.”_

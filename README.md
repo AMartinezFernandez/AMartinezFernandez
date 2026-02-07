@@ -22,8 +22,6 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con exper
 ## 🎓 Formación y especialización
 
 - 📱 **Desarrollo de Aplicaciones Multiplataforma (DAM)** — 2024/25  
-- 🛡️ **DFIR & IA aplicada** — INCIBE & ULE (curso intensivo en paralelo con DAM)  
-- 🔐 **Tecnologías de Ciberseguridad** — INCIBE & UNED  
 - 💻 Autodidacta en **automatización de workflows, IA aplicada, bots y productividad digital**
 
 ---

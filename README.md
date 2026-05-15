@@ -13,7 +13,7 @@ Inglés: B1–B2 (lectura técnica fluida)
 
 ## Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con experiencia en proyectos reales de software, automatización y análisis. Trabajo principalmente en **desarrollo web fullstack** con PHP (Laravel, Symfony) y JavaScript/TypeScript (Next.js, React, Node.js) sobre MySQL y PostgreSQL, con Docker para entornos reproducibles. En paralelo profundizo en **DFIR (Digital Forensics & Incident Response)**, **Inteligencia Artificial aplicada al desarrollo** y **automatización de procesos**, áreas en las que cuento con formación específica de INCIBE y la Universidad de León.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con experiencia en proyectos reales de software, automatización y análisis. Trabajo en **desarrollo web fullstack** con PHP sobre MySQL y PostgreSQL, JavaScript/TypeScript con React y Next.js para frontend, y Node.js en backend, todo apoyado en Docker para entornos reproducibles. En paralelo profundizo en **DFIR (Digital Forensics & Incident Response)**, **Inteligencia Artificial aplicada al desarrollo** y **automatización de procesos**, áreas en las que cuento con formación específica de INCIBE y la Universidad de León.
 
 - Combino programación con pensamiento analítico, interés por la tecnología emergente y visión de producto.
 - Fuerte orientación al **aprendizaje continuo**, disciplina y capacidad para resolver problemas técnicos.
@@ -52,11 +52,13 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con exper
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Backend & Frameworks
+### Backend
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-25A162?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 ### Frontend
@@ -124,7 +126,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con exper
 
 ## Objetivos actuales
 
-- Consolidar perfil **fullstack web** con Laravel, Next.js y Docker en proyectos reales
+- Consolidar perfil **fullstack web** con PHP, Next.js y Docker en proyectos reales
 - Aplicar **IA y automatización** al desarrollo y al análisis forense
 - Profundizar en **DFIR** tras la formación INCIBE + Universidad de León
 - Trabajar bajo **metodologías ágiles (Scrum)** con visión de equipo y producto

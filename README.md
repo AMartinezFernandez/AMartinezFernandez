@@ -6,8 +6,10 @@
 [![DFIR + IA](https://img.shields.io/badge/INCIBE%20%2B%20UniLe%C3%B3n-DFIR%20%2B%20IA-0a3d62?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.incibe.es/)
 
 **Desarrollador Junior — Fullstack web & DFIR**
-Madrid, España
-Inglés: B1–B2 (lectura técnica fluida)
+
+**Ubicación:** Madrid, España
+
+**Idiomas:** Español (nativo) · Inglés B1–B2 (lectura técnica fluida)
 
 ---
 
@@ -32,13 +34,11 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con exper
 
 ## Proyectos destacados
 
-| Proyecto | Tecnologías | Logros |
-|----------|-------------|--------|
-| **Formularios web full stack** | HTML, CSS, JS, SQL | +500 registros, 95% validaciones |
-| **Automatización con Workflows (n8n)** | API, JSON, Webhooks | Automatización de tareas técnicas |
-| **App análisis de datos** | Python, Streamlit | -40% tiempo análisis manual |
-| **POO + JDBC** | Java, JDBC, Colecciones | -30% errores de ejecución |
-| **Android Apps (en desarrollo)** | Kotlin, RecyclerView, navegación | Interfaces dinámicas, UX optimizada |
+| Proyecto | Tecnologías | Descripción |
+|----------|-------------|-------------|
+| **[PriceWise](https://github.com/AMartinezFernandez/PRICEWISE)** *(TFC DAM 2025/26)* | Spring Boot 3.3, Java 17, PostgreSQL 15, Flyway, Quartz, Kotlin, Jetpack Compose, Docker, JWT, Swagger | Sistema multi-tenant de comparación y monitorización de precios para PYMEs. Backend REST desplegado en Railway con Swagger UI público, cifrado AES-256 de API keys y RBAC; app Android nativa que consume la API |
+| **MeanCare** | Kotlin, Jetpack Compose, MVVM + Clean Architecture, Room + SQLCipher (AES-256), Firestore, AlarmManager, Next.js | App Android de gestión de medicamentos y suplementos: recordatorios precisos, control de stock, historial de adherencia, offline-first y cifrado local. Integra CIMA (AEMPS) y Open Food Facts; landing en Next.js sobre Vercel |
+| **ControlHub** *(Sistema de fichaje)* | PHP, MySQL, Composer, API REST con OpenAPI, JWT, React Native, TypeScript, PWA | Plataforma de fichaje con backend PHP, API REST documentada con OpenAPI y autenticación JWT, app móvil multiplataforma en React Native y PWA con service workers |
 
 ---
 
@@ -129,15 +129,15 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con exper
 - Consolidar perfil **fullstack web** con PHP, Next.js y Docker en proyectos reales
 - Aplicar **IA y automatización** al desarrollo y al análisis forense
 - Profundizar en **DFIR** tras la formación INCIBE + Universidad de León
-- Trabajar bajo **metodologías ágiles (Scrum)** con visión de equipo y producto
 - Próximo objetivo: certificaciones técnicas en cloud (AWS / Azure) y seguridad ofensiva
 
 ---
 
 ## ¿Hablamos?
 
-**amarfer26@gmail.com**
-**https://www.linkedin.com/in/alvaro-martinez-fernandez-1a654b292**
+**Email:** [amarfer26@gmail.com](mailto:amarfer26@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/alvaro-martinez-fernandez-1a654b292](https://www.linkedin.com/in/alvaro-martinez-fernandez-1a654b292)
 
 ---
 

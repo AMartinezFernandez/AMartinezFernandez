@@ -15,7 +15,7 @@
 
 ## Sobre mí
 
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con experiencia en proyectos reales de software, automatización y análisis. Trabajo en **desarrollo web fullstack** con PHP sobre MySQL y PostgreSQL, JavaScript/TypeScript con React y Next.js para frontend, y Node.js en backend, todo apoyado en Docker para entornos reproducibles. En paralelo profundizo en **DFIR (Digital Forensics & Incident Response)**, **Inteligencia Artificial aplicada al desarrollo** y **automatización de procesos**, áreas en las que cuento con formación específica de INCIBE y la Universidad de León.
+Soy **Desarrollador de Aplicaciones Multiplataforma** con experiencia en proyectos reales de software, automatización y análisis. Trabajo en **desarrollo web fullstack** con PHP sobre MySQL y PostgreSQL, JavaScript/TypeScript con React y Next.js para frontend, y Node.js en backend, todo apoyado en Docker para entornos reproducibles. En paralelo profundizo en **DFIR (Digital Forensics & Incident Response)**, **Inteligencia Artificial aplicada al desarrollo** y **automatización de procesos**, áreas en las que cuento con formación específica de INCIBE y la Universidad de León.
 
 - Combino programación con pensamiento analítico, interés por la tecnología emergente y visión de producto.
 - Fuerte orientación al **aprendizaje continuo**, disciplina y capacidad para resolver problemas técnicos.
@@ -25,7 +25,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** con exper
 
 ## Formación y certificaciones
 
-- **Desarrollo de Aplicaciones Multiplataforma (DAM)** — 2024/25
+- **Desarrollo de Aplicaciones Multiplataforma (DAM)** — 2024/26
 - **Professional Scrum Master I (PSM I)** — Scrum.org
 - **Digital Forensics & Artificial Intelligence (DFIR + IA)** — INCIBE + Universidad de León
 - Autodidacta en **automatización de workflows, IA aplicada, bots y productividad digital**
